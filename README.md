@@ -15,6 +15,7 @@ cargo build --target wasm32-unknown-unknown --release
 Wasm file can be found in ```target/wasm32-unknown-unknown/release/deepseek_pow_solver.wasm```
 
 I made this as to solve pow challange in python when i tested took 66.3s with pure python implimentation for same challange and 0.3s with this implimentation.
+Deepseek's orignal wasm file was undocumented so that is why I reimplimented.
 
 # Usage Example
 Install python and wasmtime(using ```pip install wasmtime```)
