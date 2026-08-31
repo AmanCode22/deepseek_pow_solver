@@ -98,7 +98,5 @@ This base64 string decodes into a json
 So, here we have to put the answer that we get from the script and other values that we got from sever itself.
 Then base64 encode it like shown above and can be used as ```x-ds-pow-response``` header.
 
-# Disclamer
-This project is just for educational purpose.
-This project is not affilated with Deepseek.
-This project may used for personal use only and not for commercial purpose.
+# Provenance & Legal Statement
+This is an independent, behavioral reimplementation of the DeepSeekHashV1 proof-of-work algorithm, created to enable interoperability with the author's own DeepSeek account. No source code, binaries, or assets from DeepSeek's web application were copied, decompiled, or redistributed. The algorithm was reconstructed from observed input/output behavior only. All code in this repository is original, with the some help of AI to observering better. "DeepSeek" is used solely to describe interoperability; this project is not affiliated with, endorsed by, or sponsored by DeepSeek.
