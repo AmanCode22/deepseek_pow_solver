@@ -1,5 +1,7 @@
 # Deepseek's POW(Proof of Work) Challange solver
-A reimplimentation of deepseek's web chat pow solver with the help of gemini in rust and wasm to get near native speed in python using wasmtime.
+A reimplimentation of deepseek's web chat pow solver with the help of gemini in rust and wasm to get near native speed in python using wasmtime.\
+
+It is made for my project https://github.com/AmanCode22/deeperseeker which is the perfect docker supported and non-docker supported claude desktop app supported deepseek website reverse engineered project.
 
 # Building Yourself
 The .wasm file is uploaded arleady in releases but if you wanna build it yourself then 
